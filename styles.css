@@ -45,6 +45,10 @@ img {
   color: #625D5D;
 }
 
+.text1 {
+  clear: both;
+}
+
 html, body {
     /* Sets default font-size to 16px, ensuring 1em = 16px; */
     font-size: 16px;
